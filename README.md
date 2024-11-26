@@ -1,7 +1,6 @@
 ## Library Management System with Database Integration
  
-The Library Management System with Databases Integration is an application designed to allow users to easily manage all aspects of the library system - from the catalog of book titles to the list of library users to a directory of authors and their short biographies - all with the power and reliability of a MySQL database in the background.
-Created in Python 3.13, this application practices modular program writing and establishing connections between a MySQL database and a Python application.
+The Library Management System with Databases Integration is an application designed to allow users to easily manage all aspects of the library system - from the catalog of book titles to the list of library users to a directory of authors and their short biographies - all with the power and reliability of a MySQL database in the background. Created in Python 3.13, this application practices modular program writing and establishing connections between a MySQL database and a Python application.
  
 ## Installation
  
@@ -18,7 +17,7 @@ pip install mysql-connector-python
 #### Classes within:
 1. sql_connection.py 
 2. book_operations.py
-3. user.py
+3. user_operations.py
 4. author_operations.py
  
 ## Usage
